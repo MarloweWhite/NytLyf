@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906169253743",
+    "firebase_url": "https://nytlyf-45522.firebaseio.com",
+    "project_id": "nytlyf-45522",
+    "storage_bucket": "nytlyf-45522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906169253743:android:e7b4b66e01839432",
+        "android_client_info": {
+          "package_name": "com.example.nytlyfproto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906169253743-lkumg9alsph69ra7vpc9eb4gep5mgopm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nytlyfproto",
+            "certificate_hash": "81a0d0a0f0b6ba1a1ce0d530d4178d731c71e7fd"
+          }
+        },
+        {
+          "client_id": "906169253743-3kt4qcqplud70crurq3ojv9hevrsghqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2Vs8SvHEPLq3fN3bVvTAGvWPz_uOEcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906169253743-3kt4qcqplud70crurq3ojv9hevrsghqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
